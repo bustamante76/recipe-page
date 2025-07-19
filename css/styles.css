@@ -29,7 +29,7 @@ body {
   background-color: var(--White);
   padding: 34px;
   border-radius: 20px;
-  margin: 20px auto;
+  margin: 80px auto;
   box-shadow: 0 4px 6px rgba(0, 0, 1, 0.1);
 
   .card__figure {
